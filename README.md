@@ -1,2 +1,28 @@
-# ternary-quantum-unifiedfield
-Ternary Core Computing Engine v1.0, aligned with three-state unified field theory. Integrates ternary logic with quantum computing and high-dimensional spacetime research, serving as a specialized computational tool for cutting-edge three-state physics studies.
+# 三进制核心计算引擎V1.0
+基于三态统一场论的核心计算软件，支持三进制数制转换、逻辑运算、物理常数耦合计算、高维时空退化模拟四大核心功能。
+
+## 关联资源
+- 理论基础论文：基于能粒子螺旋运动的三态统一场论及其与现代物理的衔接性证明（v2.0 完整版）
+  - DOI：https://doi.org/10.5281/zenodo.17905321
+- 详细说明书：`三进制核心计算引擎软件V1.0(说明书).pdf`（本仓库已上传）
+
+## 软件信息
+- 开发作者：李淑萍
+- ORCID：0009-0007-7434-9263
+- 邮箱：lsp.tp@qq.com
+- 开发日期：2025-12-13
+- 开源协议：MIT License（见LICENSE文件）
+- 运行环境：Windows 10/11 64位、Linux CentOS 7.0+、macOS 12+；Python 3.8-3.10
+- 依赖库：numpy≥1.24.3（核心依赖，必装）
+
+## 核心功能
+1. 数制转换：二进制/十进制/十六进制 ↔ 标准三进制/平衡三进制（整数+小数）
+2. 三态逻辑运算：与、或、非、异或、蕴含、等价运算
+3. 物理常数耦合：电磁/引力/磁耦合常数的三进制量化与双向转换
+4. 时空退化模拟：九维时空向三维空间退化模拟，输出坐标、曲率、能量密度
+
+## 快速使用
+### 1. 环境准备
+```bash
+# 安装依赖
+pip install numpy≥1.24.3
